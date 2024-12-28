@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bde51bf81b67d6040a539b9a002f1b44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerTransform: {instanceID: 0}
+  - firstLoadSecne: {instanceID: 0}
+  - level1SO: {instanceID: 0}
+  - level2SO: {instanceID: 0}
+  - level3SO: {instanceID: 0}
+  - level4SO: {instanceID: 0}
+  - level5SO: {instanceID: 0}
+  - FadeEvent: {instanceID: 0}
+  - levelTable: {instanceID: 0}
+  - SetAircrftPositionEvent: {instanceID: 0}
+  - ChangeSceneEvent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
